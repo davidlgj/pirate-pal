@@ -1,5 +1,7 @@
-Super simple program so I can shut down my raspotify pirate audiop by pressing the a button
+## Super simple program so I can shut down my raspotify pirate audiop by pressing the a button
 
+
+## Notes
 four buttons, active low connected to BCM 5, 6, 16, and 24 (A, B, X, Y respectively)
 
 

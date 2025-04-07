@@ -1,0 +1,8 @@
+[Unit]
+Description=Pirate pal service
+
+[Service]
+ExecStart=/opt/pirate-pal/pirate-pal
+
+[Install]
+WantedBy=multi-user.target
